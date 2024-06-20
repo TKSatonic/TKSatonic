@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @TKSatonic
-- 👀 I’m interested in learning more about JavaScript, either Vue.JS or React.Js for working purposes
+- 👀 I’m interested in learning C++ for working purposes
 - 🌱 I’m currently learning JavaScript, HTML, CSS 
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
